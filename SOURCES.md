@@ -1,5 +1,4 @@
-# GusGunGameReloaded
-# SOURCES.md
+# GusGunGameReloaded Sources/Attributions
 
 Developed with Unreal Engine 4
 
@@ -20,7 +19,7 @@ Developed with Unreal Engine 4
 
 **Blue Sphere**  
 *Ice Material* - Jonathon Frederick (Unreal)  
-*https://forums.unrealengine.com/unreal-engine/marketplace/125546-nature-materials-ice  
+https://forums.unrealengine.com/unreal-engine/marketplace/125546-nature-materials-ice  
 *Transforms, Colliders, etc.* - Frank Lubek  
 *Blueprints* - BP_SphereTarget - Frank Lubek  
 *Audio Clip on Contact* - Invalid_Action - Unreal Starter Assets  
@@ -51,7 +50,7 @@ Developed with Unreal Engine 4
 **Level Design**  
 "Replicated" (with  changes) from (2017) Gus's Gun Game - Frank Lubek  
 
-**Icon**
+**Icon**  
 *PNG File* - Frank Lubek via Microsoft Word  
 *ICO File* - Converted using Convertico.com
 
