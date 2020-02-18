@@ -52,7 +52,7 @@ Developed with Unreal Engine 4
 "Replicated" (with  changes) from (2017) Gus's Gun Game - Frank Lubek  
 
 **Icon**
-*PNG File* - Frank Lubek via Microsoft Word
+*PNG File* - Frank Lubek via Microsoft Word  
 *ICO File* - Converted using Convertico.com
 
 
