@@ -1651,585 +1651,581 @@
 "../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.uasset" 1650
 "../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/Walk_Lt_Rifle_Ironsights.uasset" 1651
 "../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/Walk_Rt_Rifle_Ironsights.uasset" 1652
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 1653
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 1654
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 1655
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 1656
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 1657
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 1658
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 1659
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Character/Mesh/FirstPersonAnimBlueprint_Copy.uasset" 1660
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 1661
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 1662
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 1663
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 1664
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Meshes/BaseMaterial.uasset" 1665
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" 1666
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPersonBP/FirstPersonOverview.uasset" 1667
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Geometry/Meshes/CubeMaterial.uasset" 1668
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Geometry/Meshes/1M_Cube.uasset" 1669
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 1670
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Geometry/Meshes/TemplateFloor.uasset" 1671
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Blueprints/BP_PlayerController.uasset" 1672
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 1673
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 1674
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 1675
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 1676
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 1677
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 1678
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 1679
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 1680
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 1681
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1682
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 1683
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 1684
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 1685
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 1686
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 1687
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 1688
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 1689
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 1690
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 1691
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 1692
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 1693
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 1694
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1695
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 1696
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 1697
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 1698
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 1699
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 1700
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 1701
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 1702
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 1703
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 1704
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 1705
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 1706
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 1707
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 1708
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 1709
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/UI/WBP_UI_Win.uasset" 1710
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/Blueprints/BP_GameMode.uasset" 1711
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/BP_GameMode.uasset" 1712
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 1713
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1714
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Explosion02.uasset" 1715
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Burst_M.uasset" 1716
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Particles/Materials/M_Burst.uasset" 1717
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 1718
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 1719
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 1720
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 1721
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 1722
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 1723
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 1724
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Particles/P_Explosion.uasset" 1725
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/Blueprints/BP_Pole.uasset" 1726
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/BP_Pole.uasset" 1727
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/Blueprints/BP_RotateRedCube.uasset" 1728
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/Blueprints/BP_RedCube.uasset" 1729
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/Blueprints/BP_Red_Cube.uasset" 1730
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/BP_Red_Cube.uasset" 1731
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/BP_RotateRedCube.uasset" 1732
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/Blueprints/BP_RotateYellowCube.uasset" 1733
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/BP_RotateYellowCube.uasset" 1734
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Materials/jonathon-frederick-materials-naturematerialsice-screenshot-6.uasset" 1735
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Materials/jonathon-frederick-materials-naturematerialsice-screenshot-6_Mat.uasset" 1736
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 1737
-"../../../Engine/Content/VREditor/Sounds/UI/Invalid_Action.uasset" 1738
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/Blueprints/BP_SphereTarget.uasset" 1739
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/BP_SphereTarget.uasset" 1740
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/Materials/M_LaserPointer-Core-GGGR.uasset" 1741
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/Blueprints/BP_YellowCube.uasset" 1742
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/Blueprints/BP_Yellow_Cube.uasset" 1743
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/BP_Yellow_Cube.uasset" 1744
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/Level1.uasset" 1745
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/UI/WBP_UI.uasset" 1746
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/WBP_UI.uasset" 1747
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 1748
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 1749
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 1750
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 1751
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 1752
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 1753
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Animations/ThirdPersonRun.uasset" 1754
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 1755
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 1756
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 1757
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 1758
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1759
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 1760
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 1761
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 1762
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 1763
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 1764
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 1765
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 1766
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 1767
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 1768
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 1769
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 1770
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 1771
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 1772
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 1773
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Basic_Wall.uasset" 1774
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Architecture/Pillar_50x500.uasset" 1775
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Architecture/Wall_400x300.uasset" 1776
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Architecture/Wall_400x400.uasset" 1777
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Architecture/Wall_500x500.uasset" 1778
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 1779
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 1780
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Collapse01.uasset" 1781
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Collapse02.uasset" 1782
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Explosion01.uasset" 1783
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Fire01.uasset" 1784
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Fire_Sparks01.uasset" 1785
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Light01.uasset" 1786
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Light01_Cue.uasset" 1787
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Light02.uasset" 1788
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Light02_Cue.uasset" 1789
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Smoke01.uasset" 1790
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Starter_Birds01.uasset" 1791
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Starter_Music01.uasset" 1792
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Starter_Wind05.uasset" 1793
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Starter_Wind06.uasset" 1794
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Steam01.uasset" 1795
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Explosion_Cue.uasset" 1796
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 1797
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 1798
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 1799
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Bush_D.uasset" 1800
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Bush_N.uasset" 1801
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/Materials/M_Bush.uasset" 1802
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_Bush.uasset" 1803
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Chair_M.uasset" 1804
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Chair_N.uasset" 1805
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/Materials/M_Chair.uasset" 1806
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_Couch.uasset" 1807
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Glass.uasset" 1808
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Door_M.uasset" 1809
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Door_N.uasset" 1810
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/Materials/M_Door.uasset" 1811
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_Door.uasset" 1812
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 1813
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 1814
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 1815
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 1816
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 1817
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_RockMesh_M.uasset" 1818
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_RockMesh_N.uasset" 1819
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/Materials/M_Rock.uasset" 1820
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_Rock.uasset" 1821
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Shelf_M.uasset" 1822
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Shelf_N.uasset" 1823
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/Materials/M_Shelf.uasset" 1824
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_Shelf.uasset" 1825
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Basic_Floor.uasset" 1826
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_Stairs.uasset" 1827
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_Cone.uasset" 1828
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 1829
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 1830
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_Pipe.uasset" 1831
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 1832
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 1833
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_Plane.uasset" 1834
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_Torus.uasset" 1835
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_Trim.uasset" 1836
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 1837
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 1838
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 1839
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_Tube.uasset" 1840
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 1841
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 1842
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 1843
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 1844
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 1845
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 1846
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uasset" 1847
-"../../Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset" 1848
-"../../Plugins/2D/Paper2D/Content/MaskedLitSpriteMaterial.uasset" 1849
-"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 1850
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 1851
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 1852
-"../../Plugins/2D/Paper2D/Content/OpaqueLitSpriteMaterial.uasset" 1853
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 1854
-"../../Plugins/2D/Paper2D/Content/TranslucentLitSpriteMaterial.uasset" 1855
-"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 1856
-"../../Plugins/Developer/AnimationSharing/Content/AnimSharingBase.uasset" 1857
-"../../Plugins/Developer/AnimationSharing/Content/AnimSharingBlue.uasset" 1858
-"../../Plugins/Developer/AnimationSharing/Content/AnimSharingGreen.uasset" 1859
-"../../Plugins/Developer/AnimationSharing/Content/AnimSharingRed.uasset" 1860
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneRoot.uasset" 1861
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneNode.uasset" 1862
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_AnimatedNode.uasset" 1863
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Animation.uasset" 1864
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SharedNode.uasset" 1865
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 1866
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Toggle.uasset" 1867
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimation.uasset" 1868
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimatedNode.uasset" 1869
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimNode.uasset" 1870
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 1871
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/BP_AnimationPlayer.uasset" 1872
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationPlayer.uasset" 1873
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/BP_VariantSelector.uasset" 1874
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantsSelector.uasset" 1875
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithLayer.uasset" 1876
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithActor.uasset" 1877
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/AreaLightsStruct.uasset" 1878
-"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/cylinder.uasset" 1879
-"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/disc.uasset" 1880
-"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/sphere.uasset" 1881
-"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/square.uasset" 1882
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/AreaLightsTable.uasset" 1883
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/Arealight.uasset" 1884
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithAreaLight.uasset" 1885
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithArealightMesh.uasset" 1886
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithSelector.uasset" 1887
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/AliasMaster.uasset" 1888
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 1889
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/C4DMasterUV.uasset" 1890
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/TileMirrorAxis.uasset" 1891
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/UVEdit.uasset" 1892
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 1893
-"../../../Engine/Content/EngineMaterials/T_Default_Normal.uasset" 1894
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/C4DMaster.uasset" 1895
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_BaseMaster.uasset" 1896
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpacityMaster.uasset" 1897
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpacitySimpleMaster.uasset" 1898
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpaqueMaster.uasset" 1899
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CropUV.uasset" 1900
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CroppedUVMapping.uasset" 1901
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/RGBtoHSV.uasset" 1902
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/Datasmith_Color.uasset" 1903
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/ExtractColor.uasset" 1904
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/Datasmith_Material.uasset" 1905
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/HSVtoRGB.uasset" 1906
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/IFC_ColorMaster.uasset" 1907
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MirrorUVTiling.uasset" 1908
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/NormalFromHeightmap.uasset" 1909
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/RevitMaster.uasset" 1910
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/RGBtoHSV.uasset" 1911
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/SketchUpMaster.uasset" 1912
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenUVEdit.uasset" 1913
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenBase.uasset" 1914
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMaster.uasset" 1915
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMasterAbsorb.uasset" 1916
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMasterClearCoat.uasset" 1917
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMasterTransparent.uasset" 1918
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDUVEdit.uasset" 1919
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDBase.uasset" 1920
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDMaster.uasset" 1921
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDMasterAbsorb.uasset" 1922
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDMasterClearCoat.uasset" 1923
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDMasterTransparent.uasset" 1924
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/VREDRepeatMode.uasset" 1925
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/PlanarMapping.uasset" 1926
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/ProcessNormal.uasset" 1927
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/TriplanarMapping.uasset" 1928
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/UVMapping.uasset" 1929
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/VREDTextureRead.uasset" 1930
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/BakedDisplacement.uasset" 1931
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/BrushedMetal.uasset" 1932
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Chrome.uasset" 1933
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Glass.uasset" 1934
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.uasset" 1935
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/RemapDistribution.uasset" 1936
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/CellularFlakes.uasset" 1937
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/SimplifiedFlakes.uasset" 1938
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/MetallicCarpaint.uasset" 1939
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Phong.uasset" 1940
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Plastic.uasset" 1941
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/UnicolorCarpaint.uasset" 1942
-"../../Plugins/Enterprise/DatasmithContent/Content/Textures/S_LightArea.uasset" 1943
-"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneTexture.uasset" 1944
-"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneMaterial.uasset" 1945
-"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_GreenKey.uasset" 1946
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 1947
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 1948
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 1949
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 1950
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 1951
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 1952
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 1953
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 1954
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 1955
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 1956
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 1957
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 1958
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 1959
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 1960
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uasset" 1961
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial.uasset" 1962
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchForQuestRiftSController.uasset" 1963
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/OculusGoController_albedo.uasset" 1964
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusGoControllerMaterial.uasset" 1965
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/OculusGoController.uasset" 1966
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 1967
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftSensorHead.uasset" 1968
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftSensorStem.uasset" 1969
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 1970
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uasset" 1971
-"../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset" 1972
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1973
-"../../../Engine/Content/Maps/Entry.umap" 1974
-"../../../Engine/Content/Maps/Templates/Template_Default_BuiltData.uasset" 1975
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1976
-"../../../Engine/Content/Maps/Templates/Template_Default.umap" 1977
-"../../../Engine/Content/Maps/Templates/TimeOfDay_Default_BuiltData.uasset" 1978
-"../../../Engine/Content/EngineSky/M_SkyTimeOfDay.uasset" 1979
-"../../../Engine/Content/TemplateResources/MI_Template_BaseGray_02_Metal.uasset" 1980
-"../../../Engine/Content/TemplateResources/MI_Template_BaseGray_03_Metal.uasset" 1981
-"../../../Engine/Content/EngineMeshes/T_Mat_UnrealTech_01_D.uasset" 1982
-"../../../Engine/Content/EngineMeshes/M_Mat_UnrealTech.uasset" 1983
-"../../../Engine/Content/EngineMeshes/SM_MatPreviewMesh_01.uasset" 1984
-"../../../Engine/Content/Maps/Templates/TimeOfDay_Default.umap" 1985
-"../../../Engine/Content/Maps/Templates/VR-Basic_BuiltData.uasset" 1986
-"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uasset" 1987
-"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset" 1988
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Ball_01.uasset" 1989
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Ball_01.uasset" 1990
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_01.uasset" 1991
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_01.uasset" 1992
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_02.uasset" 1993
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_02.uasset" 1994
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_03.uasset" 1995
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_03.uasset" 1996
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Pyramid_01.uasset" 1997
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Pyramid_01.uasset" 1998
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Room_01.uasset" 1999
-"../../../Engine/Content/Maps/Templates/VR-Basic.umap" 2000
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset" 2001
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset" 2002
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uasset" 2003
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/Equip_Pistol_Standing.uasset" 2004
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/Fire_Rifle_Ironsights.uasset" 2005
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/Hit_React_1.uasset" 2006
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/Hit_React_2.uasset" 2007
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/Hit_React_3.uasset" 2008
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset" 2009
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset" 2010
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/Reload_Rifle_Hip.uasset" 2011
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uasset" 2012
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_AO.uasset" 2013
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 2014
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 2015
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 2016
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 2017
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.uasset" 2018
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 2019
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 2020
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 2021
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 2022
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.uasset" 2023
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uasset" 2024
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.uasset" 2025
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.uasset" 2026
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.uasset" 2027
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset" 2028
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset" 2029
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset" 2030
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/Showcase.umap" 2031
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 2032
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" 2033
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" 2034
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/Levels/Level1_BuiltData.uasset" 2035
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 2036
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 2037
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_MacroVariation.uasset" 2038
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 2039
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 2040
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 2041
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 2042
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Ground_Grass.uasset" 2043
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Architecture/Floor_400x400.uasset" 2044
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 2045
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/Levels/Level1.umap" 2046
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 2047
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 2048
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 2049
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 2050
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 2051
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 2052
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 2053
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 2054
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 2055
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 2056
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 2057
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_AssetPlatform.uasset" 2058
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 2059
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 2060
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 2061
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 2062
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 2063
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 2064
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 2065
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 2066
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Maps/Advanced_Lighting.umap" 2067
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 2068
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 2069
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 2070
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 2071
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 2072
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 2073
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Metal_Copper.uasset" 2074
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Statue_M.uasset" 2075
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Statue_N.uasset" 2076
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 2077
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_Chair.uasset" 2078
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/Materials/M_Statue.uasset" 2079
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_Statue.uasset" 2080
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_TableRound_M.uasset" 2081
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_TableRound_N.uasset" 2082
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/Materials/M_TableRound.uasset" 2083
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_TableRound.uasset" 2084
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Maps/Minimal_Default.umap" 2085
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Fire01_Cue.uasset" 2086
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 2087
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 2088
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 2089
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Water_N.uasset" 2090
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 2091
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 2092
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Particles/P_Fire.uasset" 2093
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 2094
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Smoke01_Cue.uasset" 2095
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Particles/P_Smoke.uasset" 2096
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 2097
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 2098
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Spark_Core.uasset" 2099
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Particles/Materials/M_Spark.uasset" 2100
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Particles/P_Sparks.uasset" 2101
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 2102
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Steam01_Cue.uasset" 2103
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Particles/P_Steam_Lit.uasset" 2104
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 2105
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Lamp_M.uasset" 2106
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Lamp_N.uasset" 2107
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/Materials/M_Lamp.uasset" 2108
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 2109
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 2110
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 2111
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 2112
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 2113
-"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 2114
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 2115
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 2116
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 2117
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 2118
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 2119
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 2120
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 2121
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 2122
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 2123
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 2124
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 2125
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 2126
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 2127
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 2128
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 2129
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 2130
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 2131
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 2132
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 2133
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 2134
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 2135
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 2136
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 2137
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 2138
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 2139
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Gradinet_01.uasset" 2140
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 2141
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 2142
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 2143
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 2144
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 2145
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 2146
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 2147
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 2148
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 2149
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 2150
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 2151
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 2152
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 2153
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 2154
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 2155
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 2156
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 2157
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 2158
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 2159
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 2160
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 2161
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 2162
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 2163
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 2164
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 2165
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Ground_Moss.uasset" 2166
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 2167
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 2168
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Metal_Gold.uasset" 2169
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 2170
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Metal_Rust.uasset" 2171
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 2172
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 2173
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Metal_Steel.uasset" 2174
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 2175
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 2176
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 2177
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 2178
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 2179
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 2180
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 2181
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 2182
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Rock_Slate.uasset" 2183
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 2184
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 2185
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 2186
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 2187
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 2188
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 2189
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 2190
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 2191
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 2192
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 2193
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 2194
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Tech_Panel.uasset" 2195
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Water_Lake.uasset" 2196
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Water_M.uasset" 2197
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Water_Ocean.uasset" 2198
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 2199
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 2200
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 2201
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 2202
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 2203
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 2204
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 2205
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Wood_Oak.uasset" 2206
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 2207
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 2208
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Wood_Pine.uasset" 2209
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 2210
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 2211
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 2212
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Architecture/Wall_400x200.uasset" 2213
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 2214
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 2215
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Collapse_Cue.uasset" 2216
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 2217
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 2218
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 2219
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 2220
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/MaterialSphere.uasset" 2221
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Frame_M.uasset" 2222
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Frame_N.uasset" 2223
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/Materials/M_Frame.uasset" 2224
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_CornerFrame.uasset" 2225
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_DoorFrame.uasset" 2226
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_GlassWindow.uasset" 2227
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_PillarFrame.uasset" 2228
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_PillarFrame300.uasset" 2229
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_WindowFrame.uasset" 2230
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_Cube.uasset" 2231
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 2232
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_Sphere.uasset" 2233
-"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Maps/StarterMap.umap" 2234
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 1653
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 1654
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 1655
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 1656
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Meshes/BaseMaterial.uasset" 1657
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" 1658
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPersonBP/FirstPersonOverview.uasset" 1659
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Geometry/Meshes/CubeMaterial.uasset" 1660
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Geometry/Meshes/1M_Cube.uasset" 1661
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 1662
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Geometry/Meshes/TemplateFloor.uasset" 1663
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 1664
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 1665
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 1666
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 1667
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 1668
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 1669
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 1670
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 1671
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 1672
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 1673
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 1674
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 1675
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 1676
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 1677
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 1678
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 1679
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1680
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 1681
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 1682
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 1683
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 1684
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 1685
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 1686
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 1687
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 1688
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 1689
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 1690
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 1691
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 1692
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1693
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 1694
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 1695
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 1696
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 1697
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 1698
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 1699
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 1700
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 1701
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 1702
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 1703
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 1704
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/UI/MenuAssets/ButtonBackground.uasset" 1705
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/UI/WBP_Exit.uasset" 1706
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/UI/WBP_Pause.uasset" 1707
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 1708
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/UI/MenuAssets/06_Pole_Explosion.uasset" 1709
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/UI/WBP_MainMenu.uasset" 1710
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/UI/HUD_MainMenu.uasset" 1711
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/Core/GGGRGameMode.uasset" 1712
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 1713
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 1714
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 1715
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 1716
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 1717
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 1718
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Animations/ThirdPersonRun.uasset" 1719
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 1720
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 1721
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 1722
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 1723
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1724
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 1725
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 1726
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 1727
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 1728
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 1729
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 1730
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 1731
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 1732
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 1733
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 1734
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 1735
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 1736
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 1737
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 1738
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Basic_Wall.uasset" 1739
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Architecture/Pillar_50x500.uasset" 1740
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Architecture/Wall_400x300.uasset" 1741
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Architecture/Wall_400x400.uasset" 1742
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Architecture/Wall_500x500.uasset" 1743
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 1744
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 1745
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Collapse01.uasset" 1746
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Collapse02.uasset" 1747
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Explosion01.uasset" 1748
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Fire01.uasset" 1749
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Fire_Sparks01.uasset" 1750
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Light01.uasset" 1751
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Light01_Cue.uasset" 1752
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Light02.uasset" 1753
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Light02_Cue.uasset" 1754
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Smoke01.uasset" 1755
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Starter_Birds01.uasset" 1756
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Starter_Music01.uasset" 1757
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Starter_Wind05.uasset" 1758
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Starter_Wind06.uasset" 1759
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Steam01.uasset" 1760
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Explosion_Cue.uasset" 1761
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Burst_M.uasset" 1762
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Particles/Materials/M_Burst.uasset" 1763
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 1764
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 1765
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 1766
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 1767
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 1768
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 1769
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 1770
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Particles/P_Explosion.uasset" 1771
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 1772
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 1773
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 1774
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Bush_D.uasset" 1775
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Bush_N.uasset" 1776
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/Materials/M_Bush.uasset" 1777
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_Bush.uasset" 1778
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Chair_M.uasset" 1779
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Chair_N.uasset" 1780
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/Materials/M_Chair.uasset" 1781
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_Couch.uasset" 1782
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Glass.uasset" 1783
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Door_M.uasset" 1784
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Door_N.uasset" 1785
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/Materials/M_Door.uasset" 1786
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_Door.uasset" 1787
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 1788
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 1789
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 1790
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 1791
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 1792
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_RockMesh_M.uasset" 1793
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_RockMesh_N.uasset" 1794
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/Materials/M_Rock.uasset" 1795
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_Rock.uasset" 1796
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Shelf_M.uasset" 1797
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Shelf_N.uasset" 1798
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/Materials/M_Shelf.uasset" 1799
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_Shelf.uasset" 1800
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Basic_Floor.uasset" 1801
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_Stairs.uasset" 1802
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_Cone.uasset" 1803
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 1804
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 1805
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_Pipe.uasset" 1806
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 1807
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 1808
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_Plane.uasset" 1809
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_Torus.uasset" 1810
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_Trim.uasset" 1811
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 1812
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 1813
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 1814
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_Tube.uasset" 1815
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 1816
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 1817
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 1818
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 1819
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 1820
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 1821
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uasset" 1822
+"../../Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset" 1823
+"../../Plugins/2D/Paper2D/Content/MaskedLitSpriteMaterial.uasset" 1824
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 1825
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 1826
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 1827
+"../../Plugins/2D/Paper2D/Content/OpaqueLitSpriteMaterial.uasset" 1828
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 1829
+"../../Plugins/2D/Paper2D/Content/TranslucentLitSpriteMaterial.uasset" 1830
+"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 1831
+"../../Plugins/Developer/AnimationSharing/Content/AnimSharingBase.uasset" 1832
+"../../Plugins/Developer/AnimationSharing/Content/AnimSharingBlue.uasset" 1833
+"../../Plugins/Developer/AnimationSharing/Content/AnimSharingGreen.uasset" 1834
+"../../Plugins/Developer/AnimationSharing/Content/AnimSharingRed.uasset" 1835
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneRoot.uasset" 1836
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneNode.uasset" 1837
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_AnimatedNode.uasset" 1838
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Animation.uasset" 1839
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SharedNode.uasset" 1840
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 1841
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Toggle.uasset" 1842
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimation.uasset" 1843
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimatedNode.uasset" 1844
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimNode.uasset" 1845
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 1846
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/BP_AnimationPlayer.uasset" 1847
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationPlayer.uasset" 1848
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/BP_VariantSelector.uasset" 1849
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantsSelector.uasset" 1850
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithLayer.uasset" 1851
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithActor.uasset" 1852
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/AreaLightsStruct.uasset" 1853
+"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/cylinder.uasset" 1854
+"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/disc.uasset" 1855
+"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/sphere.uasset" 1856
+"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/square.uasset" 1857
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/AreaLightsTable.uasset" 1858
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/Arealight.uasset" 1859
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithAreaLight.uasset" 1860
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithArealightMesh.uasset" 1861
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithSelector.uasset" 1862
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/AliasMaster.uasset" 1863
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 1864
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/C4DMasterUV.uasset" 1865
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/TileMirrorAxis.uasset" 1866
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/UVEdit.uasset" 1867
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 1868
+"../../../Engine/Content/EngineMaterials/T_Default_Normal.uasset" 1869
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/C4DMaster.uasset" 1870
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_BaseMaster.uasset" 1871
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpacityMaster.uasset" 1872
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpacitySimpleMaster.uasset" 1873
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpaqueMaster.uasset" 1874
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CropUV.uasset" 1875
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CroppedUVMapping.uasset" 1876
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/RGBtoHSV.uasset" 1877
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/Datasmith_Color.uasset" 1878
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/ExtractColor.uasset" 1879
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/Datasmith_Material.uasset" 1880
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/HSVtoRGB.uasset" 1881
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/IFC_ColorMaster.uasset" 1882
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MirrorUVTiling.uasset" 1883
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/NormalFromHeightmap.uasset" 1884
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/RevitMaster.uasset" 1885
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/RGBtoHSV.uasset" 1886
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/SketchUpMaster.uasset" 1887
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenUVEdit.uasset" 1888
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenBase.uasset" 1889
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMaster.uasset" 1890
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMasterAbsorb.uasset" 1891
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMasterClearCoat.uasset" 1892
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMasterTransparent.uasset" 1893
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDUVEdit.uasset" 1894
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDBase.uasset" 1895
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDMaster.uasset" 1896
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDMasterAbsorb.uasset" 1897
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDMasterClearCoat.uasset" 1898
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDMasterTransparent.uasset" 1899
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/VREDRepeatMode.uasset" 1900
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/PlanarMapping.uasset" 1901
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/ProcessNormal.uasset" 1902
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/TriplanarMapping.uasset" 1903
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/UVMapping.uasset" 1904
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/VREDTextureRead.uasset" 1905
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/BakedDisplacement.uasset" 1906
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/BrushedMetal.uasset" 1907
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Chrome.uasset" 1908
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Glass.uasset" 1909
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.uasset" 1910
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/RemapDistribution.uasset" 1911
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/CellularFlakes.uasset" 1912
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/SimplifiedFlakes.uasset" 1913
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/MetallicCarpaint.uasset" 1914
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Phong.uasset" 1915
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Plastic.uasset" 1916
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/UnicolorCarpaint.uasset" 1917
+"../../Plugins/Enterprise/DatasmithContent/Content/Textures/S_LightArea.uasset" 1918
+"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneTexture.uasset" 1919
+"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneMaterial.uasset" 1920
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_GreenKey.uasset" 1921
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 1922
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 1923
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 1924
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 1925
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 1926
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 1927
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 1928
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 1929
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 1930
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 1931
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 1932
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 1933
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 1934
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 1935
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uasset" 1936
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial.uasset" 1937
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchForQuestRiftSController.uasset" 1938
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/OculusGoController_albedo.uasset" 1939
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusGoControllerMaterial.uasset" 1940
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/OculusGoController.uasset" 1941
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 1942
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftSensorHead.uasset" 1943
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftSensorStem.uasset" 1944
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 1945
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uasset" 1946
+"../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset" 1947
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1948
+"../../../Engine/Content/Maps/Entry.umap" 1949
+"../../../Engine/Content/Maps/Templates/Template_Default_BuiltData.uasset" 1950
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1951
+"../../../Engine/Content/Maps/Templates/Template_Default.umap" 1952
+"../../../Engine/Content/Maps/Templates/TimeOfDay_Default_BuiltData.uasset" 1953
+"../../../Engine/Content/EngineSky/M_SkyTimeOfDay.uasset" 1954
+"../../../Engine/Content/TemplateResources/MI_Template_BaseGray_02_Metal.uasset" 1955
+"../../../Engine/Content/TemplateResources/MI_Template_BaseGray_03_Metal.uasset" 1956
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 1957
+"../../../Engine/Content/EngineMeshes/T_Mat_UnrealTech_01_D.uasset" 1958
+"../../../Engine/Content/EngineMeshes/M_Mat_UnrealTech.uasset" 1959
+"../../../Engine/Content/EngineMeshes/SM_MatPreviewMesh_01.uasset" 1960
+"../../../Engine/Content/Maps/Templates/TimeOfDay_Default.umap" 1961
+"../../../Engine/Content/Maps/Templates/VR-Basic_BuiltData.uasset" 1962
+"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uasset" 1963
+"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset" 1964
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Ball_01.uasset" 1965
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Ball_01.uasset" 1966
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_01.uasset" 1967
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_01.uasset" 1968
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_02.uasset" 1969
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_02.uasset" 1970
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_03.uasset" 1971
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_03.uasset" 1972
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Pyramid_01.uasset" 1973
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Pyramid_01.uasset" 1974
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Room_01.uasset" 1975
+"../../../Engine/Content/Maps/Templates/VR-Basic.umap" 1976
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset" 1977
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset" 1978
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uasset" 1979
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/Equip_Pistol_Standing.uasset" 1980
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/Fire_Rifle_Ironsights.uasset" 1981
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/Hit_React_1.uasset" 1982
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/Hit_React_2.uasset" 1983
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/Hit_React_3.uasset" 1984
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset" 1985
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset" 1986
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/Reload_Rifle_Hip.uasset" 1987
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uasset" 1988
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_AO.uasset" 1989
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 1990
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1991
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 1992
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 1993
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.uasset" 1994
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 1995
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 1996
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 1997
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 1998
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.uasset" 1999
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uasset" 2000
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.uasset" 2001
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.uasset" 2002
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.uasset" 2003
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset" 2004
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset" 2005
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset" 2006
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/AnimStarterPack/Showcase.umap" 2007
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 2008
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 2009
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 2010
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" 2011
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" 2012
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Blueprints/BP_PlayerController.uasset" 2013
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/UI/WBP_UI_Win.uasset" 2014
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/Blueprints/BP_GameMode.uasset" 2015
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 2016
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 2017
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Explosion02.uasset" 2018
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/Blueprints/BP_Pole.uasset" 2019
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/Blueprints/BP_RotateRedCube.uasset" 2020
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/Blueprints/BP_RedCube.uasset" 2021
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/Blueprints/BP_RotateYellowCube.uasset" 2022
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Materials/jonathon-frederick-materials-naturematerialsice-screenshot-6.uasset" 2023
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/Materials/jonathon-frederick-materials-naturematerialsice-screenshot-6_Mat.uasset" 2024
+"../../../Engine/Content/VREditor/Sounds/UI/Invalid_Action.uasset" 2025
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/Blueprints/BP_SphereTarget.uasset" 2026
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/Materials/M_LaserPointer-Core-GGGR.uasset" 2027
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/Blueprints/BP_YellowCube.uasset" 2028
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/Levels/Level1_BuiltData.uasset" 2029
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 2030
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 2031
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_MacroVariation.uasset" 2032
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 2033
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 2034
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 2035
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 2036
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Ground_Grass.uasset" 2037
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/UI/WBP_UI.uasset" 2038
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Architecture/Floor_400x400.uasset" 2039
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 2040
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/Levels/Level1.umap" 2041
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/LEAssets/Levels/LevelMainMenu.umap" 2042
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 2043
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 2044
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 2045
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 2046
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 2047
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 2048
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 2049
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 2050
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 2051
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 2052
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 2053
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_AssetPlatform.uasset" 2054
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 2055
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 2056
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 2057
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 2058
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 2059
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 2060
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 2061
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 2062
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Maps/Advanced_Lighting.umap" 2063
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 2064
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 2065
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 2066
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 2067
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 2068
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 2069
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Metal_Copper.uasset" 2070
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Statue_M.uasset" 2071
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Statue_N.uasset" 2072
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 2073
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_Chair.uasset" 2074
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/Materials/M_Statue.uasset" 2075
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_Statue.uasset" 2076
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_TableRound_M.uasset" 2077
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_TableRound_N.uasset" 2078
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/Materials/M_TableRound.uasset" 2079
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_TableRound.uasset" 2080
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Maps/Minimal_Default.umap" 2081
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Fire01_Cue.uasset" 2082
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 2083
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 2084
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 2085
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Water_N.uasset" 2086
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 2087
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 2088
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Particles/P_Fire.uasset" 2089
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 2090
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Smoke01_Cue.uasset" 2091
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Particles/P_Smoke.uasset" 2092
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 2093
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 2094
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Spark_Core.uasset" 2095
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Particles/Materials/M_Spark.uasset" 2096
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Particles/P_Sparks.uasset" 2097
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 2098
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Steam01_Cue.uasset" 2099
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Particles/P_Steam_Lit.uasset" 2100
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 2101
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Lamp_M.uasset" 2102
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Lamp_N.uasset" 2103
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/Materials/M_Lamp.uasset" 2104
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 2105
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 2106
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 2107
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 2108
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 2109
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 2110
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 2111
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 2112
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 2113
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 2114
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 2115
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 2116
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 2117
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 2118
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 2119
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 2120
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 2121
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 2122
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 2123
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 2124
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 2125
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 2126
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 2127
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 2128
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 2129
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 2130
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 2131
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 2132
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 2133
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 2134
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 2135
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Gradinet_01.uasset" 2136
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 2137
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 2138
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 2139
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 2140
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 2141
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 2142
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 2143
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 2144
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 2145
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 2146
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 2147
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 2148
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 2149
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 2150
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 2151
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 2152
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 2153
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 2154
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 2155
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 2156
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 2157
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 2158
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 2159
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 2160
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 2161
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Ground_Moss.uasset" 2162
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 2163
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 2164
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Metal_Gold.uasset" 2165
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 2166
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Metal_Rust.uasset" 2167
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 2168
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 2169
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Metal_Steel.uasset" 2170
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 2171
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 2172
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 2173
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 2174
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 2175
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 2176
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 2177
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 2178
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Rock_Slate.uasset" 2179
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 2180
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 2181
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 2182
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 2183
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 2184
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 2185
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 2186
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 2187
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 2188
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 2189
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 2190
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Tech_Panel.uasset" 2191
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Water_Lake.uasset" 2192
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Water_M.uasset" 2193
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Water_Ocean.uasset" 2194
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 2195
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 2196
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 2197
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 2198
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 2199
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 2200
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 2201
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Wood_Oak.uasset" 2202
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 2203
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 2204
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Wood_Pine.uasset" 2205
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 2206
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 2207
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 2208
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Architecture/Wall_400x200.uasset" 2209
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 2210
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 2211
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Collapse_Cue.uasset" 2212
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 2213
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 2214
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 2215
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 2216
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/MaterialSphere.uasset" 2217
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Frame_M.uasset" 2218
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Textures/T_Frame_N.uasset" 2219
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/Materials/M_Frame.uasset" 2220
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_CornerFrame.uasset" 2221
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_DoorFrame.uasset" 2222
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_GlassWindow.uasset" 2223
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_PillarFrame.uasset" 2224
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_PillarFrame300.uasset" 2225
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Props/SM_WindowFrame.uasset" 2226
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_Cube.uasset" 2227
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 2228
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Shapes/Shape_Sphere.uasset" 2229
+"../../../../../../Users/Admin/Documents/Unreal Projects/GusGunGameReloaded/Content/StarterContent/Maps/StarterMap.umap" 2230
