@@ -39,7 +39,7 @@ Developed with Unreal Engine 4
 
 ## Core
 
-**Game Mode** 
+**Game Mode**  
 *Blueprints* - G3RGameMode and G3RMenuGameMode - Frank Lubek 
 
 
