@@ -4,7 +4,7 @@ Developed with Unreal Engine 4
 
 **Icon**  
 *PNG File* - Frank Lubek via Microsoft Word  
-*ICO File* - Converted using Convertico.com
+*ICO File* - Frank Lubek - Converted using Convertico.com
 
 
 
