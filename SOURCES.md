@@ -8,31 +8,31 @@ Developed with Unreal Engine 4
 
 
 
-
 ## Menus and UI
 
-**""Splashscreens"**
-*UE Logo* - "Unreal_Engine_Horiz_White.png" - Epic Games (with their permission)
+**Splashscreens**    
+*UE Logo* - "Unreal_Engine_Horiz_White.png" - Epic Games (with their permission)  
 *LEGaming Logo* - "LE_LogoPic.png" - Frank Lubek via MS Word
+  
+
+**Main Menu**  
+*Background Image* - "06_Pole_Explosion.png" - Frank Lubek  
+*Background Music* - "sunsai__menu-background-music.wav" - https://freesound.org/people/Sunsai/sounds/415805/  
 
 
-**Main Menu**
-*Background Image* - "06_Pole_Explosion.png" - Frank Lubek
-*Background Music* - "sunsai__menu-background-music.wav" - https://freesound.org/people/Sunsai/sounds/415805/
+**Menu Buttons**  
+*Background* - "ButtonBackground.png" - Frank Lubek via Paint and MS Word  
+*Hover Sound Clip* - "short-click-snap-perc.wav" - waveplay. - https://freesound.org/people/waveplay./sounds/399934/   
+*Pressed Sound Clip* - "UI-Confirmation-Alert-C3.wav" - InspectorJ (www.jshaw.co.uk) - https://freesound.org/people/InspectorJ/sounds/403017/   
 
 
-**Menu Buttons**
-*Background* - "ButtonBackground.png" - Frank Lubek via Paint and MS Word
-*Hover Sound Clip* - "short-click-snap-perc.wav" - waveplay. - https://freesound.org/people/waveplay./sounds/399934/
-*Pressed Sound Clip* - "UI-Confirmation-Alert-C3.wav" - InspectorJ (www.jshaw.co.uk) - https://freesound.org/people/InspectorJ/sounds/403017/ 
-
-
-**Score UI** (display score and win message)  
+**Score UI**   
+(display score and win message)  
 *Widget Blueprints and Layout* - WBP_UI and WBP_UI_Win - Frank Lubek  
 
 
-**Video References**
-*UI* - Virtus Learning Hub / Creative Tutorials - https://youtu.be/U_DY1lmHbLc
+**Video References**  
+*UI* - Virtus Learning Hub / Creative Tutorials - https://youtu.be/U_DY1lmHbLc   
 *Pause Menu* - CodeViper - https://youtu.be/gSt-7jY0t80
 
 
