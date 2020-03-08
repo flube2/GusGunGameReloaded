@@ -37,6 +37,16 @@ Developed with Unreal Engine 4
 
 
 
+## Core
+
+**Game Mode**  
+*Blueprints* - G3RGameMode and G3RMenuGameMode - Frank Lubek 
+
+
+**Player State**  
+*Blueprints* - G3RPlayerState - Frank Lubek
+
+
 
 ## Level 1
 
@@ -78,10 +88,6 @@ https://forums.unrealengine.com/unreal-engine/marketplace/125546-nature-material
 **Ground**  
 *Material* - M_Ground_Grass - Unreal Starter Assets  
 *Transform, Colliders, etc.* - Unreal Primitive Components  
-
-
-**Game Mode** (score implementation, win condition, level restart)  
-*Blueprints* - BP_GameMode - Frank Lubek  
 
 
 **Level Design**  
