@@ -1,0 +1,4 @@
+,AchievementName,Description,UnachievedImage,AchievedImage,PointValue
+1,GlobalFirstMovement,Move character for the first time.,,,1
+2,L1KazdyPociskJedenNiemiec,Destroy 10 pickups in exactly 10 shots.,,,1
+3,L1MasterSharpshooter,Destroy 10 pickups in less than 10 shots.,,,1
