@@ -95,5 +95,27 @@ https://forums.unrealengine.com/unreal-engine/marketplace/125546-nature-material
 
 
 
+## Level Selector
 
 
+**Trees** - blenderblock - https://www.turbosquid.com/FullPreview/Index.cfm/ID/1218839
+
+
+**Ground**   
+*Material* - M_Ground_Grass - Unreal Starter Assets  
+*Transform, Colliders, etc.* - Unreal Primitive Components 
+
+
+**Wooden Tower**
+*Msterial* - M_Wood_Pine - Unreal Starter Assets
+*Design* - Frank Lubek
+
+
+**Dartboard**
+*Base (Cylinder)* - Black - Frank Lubek
+*Wedges (Cones)* - Black and Wheat - Frank Lubek
+*Bullseyes (Cylinders)* - Forest Green and Dark Red - Frank Lubek
+*Blueprints* - BP_Dartboard and BP_Wedge - Frank Lubek
+
+
+**Lighting Adjustments** - Frank Lubek
