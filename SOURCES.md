@@ -47,6 +47,10 @@ Developed with Unreal Engine 4
 *Blueprints* - G3RPlayerState - Frank Lubek
 
 
+**Player Controller**
+*Blueprints* - G3RPlayerController - Frank Lubek
+
+
 
 ## Level 1
 
