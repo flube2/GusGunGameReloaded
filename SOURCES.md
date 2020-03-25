@@ -47,7 +47,7 @@ Developed with Unreal Engine 4
 *Blueprints* - G3RPlayerState - Frank Lubek
 
 
-**Player Controller**
+**Player Controller**  
 *Blueprints* - G3RPlayerController - Frank Lubek
 
 
@@ -95,7 +95,7 @@ https://forums.unrealengine.com/unreal-engine/marketplace/125546-nature-material
 
 
 **Level Design**  
-"Replicated" (with  changes) from (2017) Gus's Gun Game - Frank Lubek  
+"Replicated" (with minor changes) from (2017) Gus's Gun Game - Frank Lubek  
 
 
 
@@ -110,19 +110,19 @@ https://forums.unrealengine.com/unreal-engine/marketplace/125546-nature-material
 *Transform, Colliders, etc.* - Unreal Primitive Components 
 
 
-**Wooden Tower**
-*Msterial* - M_Wood_Pine - Unreal Starter Assets
+**Wooden Tower**  
+*Material* - M_Wood_Pine - Unreal Starter Assets
 *Design* - Frank Lubek
 
 
-**Dartboard**
+**Dartboard**  
 *Base (Cylinder)* - Black - Frank Lubek
 *Wedges (Cones)* - Black and Wheat - Frank Lubek
 *Bullseyes (Cylinders)* - Forest Green and Dark Red - Frank Lubek
 *Blueprints* - BP_Dartboard and BP_Wedge - Frank Lubek
 
 
-**Save and Load Buttons**
+**Save and Load Buttons**  
 *Materials* - Save_Mat and Load_Mat - Frank Lubek via Microsoft Word
 
 
