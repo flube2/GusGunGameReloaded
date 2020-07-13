@@ -47,6 +47,7 @@ Unreal® Engine, Copyright 1998 – 2020, Epic Games, Inc. All rights reserved.�
 *UI* - Virtus Learning Hub / Creative Tutorials - https://youtu.be/U_DY1lmHbLc   
 *Pause Menu* - CodeViper - https://youtu.be/gSt-7jY0t80
 *Sun Material* - SmarTech - https://youtu.be/cbBQvqMNbTw
+*M_Water_Ocean_Scalable and M_Water_Ocean_Scalable_Inst* -  https://www.worldofleveldesign.com/categories/ue4/materials-starter-content-water-instance.php
 
 
 
