@@ -43,6 +43,8 @@ Unreal® Engine, Copyright 1998 – 2020, Epic Games, Inc. All rights reserved.�
 *Widget Blueprints and Layout* - WBP_UI and WBP_UI_Win - Frank Lubek  
 *UI Health Logo* - "UIHealthSymbol.png" - Frank Lubek via MS Word
 *UI Ammo Logo* - "UIAmmoSymbol.png" - Frank Lubek via MS Word and clip art
+*UI Score Logo* - "UIScoreSymbol.png" - Frank Lubek via MS Word
+
 
 **Video References**  
 *UI* - Virtus Learning Hub / Creative Tutorials - https://youtu.be/U_DY1lmHbLc   
