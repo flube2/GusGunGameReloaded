@@ -38,10 +38,11 @@ Unreal® Engine, Copyright 1998 – 2020, Epic Games, Inc. All rights reserved.�
 *Pressed Sound Clip* - "UI-Confirmation-Alert-C3.wav" - InspectorJ (www.jshaw.co.uk) - https://freesound.org/people/InspectorJ/sounds/403017/  (Attribution License)
 
 
-**Score UI**   
+**Game UI**   
 (display score and win message)  
 *Widget Blueprints and Layout* - WBP_UI and WBP_UI_Win - Frank Lubek  
-
+*UI Health Logo* - "UIHealthSymbol.png" - Frank Lubek via MS Word
+*UI Ammo Logo* - "UIAmmoSymbol.png" - Frank Lubek via MS Word and clip art
 
 **Video References**  
 *UI* - Virtus Learning Hub / Creative Tutorials - https://youtu.be/U_DY1lmHbLc   
@@ -225,3 +226,6 @@ https://forums.unrealengine.com/unreal-engine/marketplace/125546-nature-material
 
 
 **"G" / Level Design** - Frank Lubek
+
+
+
