@@ -51,6 +51,7 @@ Unreal® Engine, Copyright 1998 – 2020, Epic Games, Inc. All rights reserved.�
 *Pause Menu* - CodeViper - https://youtu.be/gSt-7jY0t80
 *Sun Material* - SmarTech - https://youtu.be/cbBQvqMNbTw
 *M_Water_Ocean_Scalable and M_Water_Ocean_Scalable_Inst* -  https://www.worldofleveldesign.com/categories/ue4/materials-starter-content-water-instance.php
+*Lava* - RetroGamer - https://youtu.be/H13BbNvKYjA
 
 
 
@@ -231,3 +232,5 @@ https://forums.unrealengine.com/unreal-engine/marketplace/125546-nature-material
 
 
 
+## Level #/7: [Tropical Island]
+Image on Scuba Tank - "Nitrox.png" - Wikipedia - https://en.wikipedia.org/wiki/File:Nitrox.svg
