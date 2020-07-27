@@ -234,3 +234,6 @@ https://forums.unrealengine.com/unreal-engine/marketplace/125546-nature-material
 
 ## Level #/7: [Tropical Island]
 Image on Scuba Tank - "Nitrox.png" - Wikipedia - https://en.wikipedia.org/wiki/File:Nitrox.svg
+*Sword* - Sokurik - https://www.turbosquid.com/3d-models/sword-obj-free/983256
+
+
