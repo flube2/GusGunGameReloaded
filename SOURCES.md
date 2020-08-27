@@ -232,10 +232,13 @@ https://forums.unrealengine.com/unreal-engine/marketplace/125546-nature-material
 
 
 
-## Level #/7: [Tropical Island]
+## Level 3/7: [Tropical Island]
 *Image on Scuba Tank* - "Nitrox.png" - Wikipedia - https://en.wikipedia.org/wiki/File:Nitrox.svg
 *Sword* - Sokurik - https://www.turbosquid.com/3d-models/sword-obj-free/983256
 
-*Background Audio* - "tropical.wav" (Trimmed via https://audiotrimmer.com) - wi-photos - https://freesound.org/people/wi-photos/sounds/483061/ - CC0 License
+*Background Audio* - "jungle_sounds.wav" - mikevpme - https://freesound.org/people/mikevpme/sounds/423711/ (CC0 License)
+*Background Audio* - "river_sounds.wav" - sterferny - https://freesound.org/people/sterferny/sounds/382322/ (CC0 License)
+*Background Audio* - "waves-and-seagulls-trimmedForLooping.wav" (Trimmed via https://audiotrimmer.com) - juskiddink - https://freesound.org/people/juskiddink/sounds/149488/ (Attribution License)
+*Background Soundtrack* - "tropical.wav" (Trimmed via https://audiotrimmer.com) - wi-photos - https://freesound.org/people/wi-photos/sounds/483061/ - CC0 License
 
 
